@@ -1,4 +1,4 @@
-# Excell-Powerbi_Projects
+# Excell-Project
 Portfolio of data analytics projects built with Excel and Power BI, focused on data visualization, business insights, and financial analysis.
 
 Cleveland Cavaliers Financial & Roster Analysis
